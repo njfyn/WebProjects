@@ -1,0 +1,16 @@
+body {
+  background-color: #191312;
+  background: #191312;
+}
+
+.container {
+  max-width: 960px;
+  background-color: #191312;
+  background: #191312;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+
